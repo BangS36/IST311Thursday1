@@ -4,3 +4,5 @@ Demo
 Some changes
 
 Here are some more changes
+
+Direct change
